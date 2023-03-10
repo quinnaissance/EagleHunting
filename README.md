@@ -31,3 +31,5 @@ https://youtu.be/eB-Z7UZt-qw
 * Lei Gong
 * Steven Quinn
 * Warren Wu
+## Credits
+* Menu art by Abraham Hunter.
