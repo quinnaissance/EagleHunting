@@ -1,0 +1,35 @@
+#pane {
+    -fx-background-image: url("/eagle.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 720 481;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+.menubutton {
+    -fx-background-image: url("/buttonBg2.png");
+    -fx-background-color: transparent;
+    -fx-background-repeat: stretch;
+    -fx-background-size: stretch;
+    -fx-background-position: center center;
+}
+.menubuttonhover {
+    -fx-background-image: url("/buttonBg2_mouseover.png");
+    -fx-background-color: transparent;
+    -fx-background-repeat: stretch;
+    -fx-background-size: stretch;
+    -fx-background-position: center center;
+}
+.mutebutton {
+    -fx-background-image: url("/muteButton.png");
+    -fx-background-color: transparent;
+    -fx-background-repeat: stretch;
+    -fx-background-size: stretch;
+    -fx-background-position: center center;
+}
+.mutebuttonon {
+    -fx-background-image: url("/muteButton_on.png");
+    -fx-background-color: transparent;
+    -fx-background-repeat: stretch;
+    -fx-background-size: stretch;
+    -fx-background-position: center center;
+}

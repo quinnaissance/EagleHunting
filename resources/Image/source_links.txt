@@ -1,0 +1,11 @@
+birds
+https://opengameart.org/content/lpc-birds
+
+hunter
+https://www.artstation.com/artwork/4bm8kW
+
+chick
+https://opengameart.org/content/chick
+
+egg
+https://opengameart.org/content/egg-item-sprite
