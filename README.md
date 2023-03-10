@@ -1,4 +1,4 @@
-# CMPT 276 Project: Eagle Hunting
+# Maze Game: Eagle Hunting
 ## Javadoc
 * Use `mvn javadoc:javadoc` to compile javadoc
 * Javadoc is also already contained in `Documents/javadoc` on this repository
