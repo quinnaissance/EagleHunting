@@ -8,7 +8,7 @@
 ## Gameplay Video
 https://youtu.be/8QYLGLK3GZs
 
-## Video Contest Tutorial
+## Video Contest Tutorial (1st place winner)
 https://youtu.be/eB-Z7UZt-qw
 
 ## Javadoc
