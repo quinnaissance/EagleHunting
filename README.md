@@ -10,7 +10,7 @@
 ## Gameplay Video
 https://youtu.be/8QYLGLK3GZs
 
-## Video Contest Tutorial (1st place winner)
+## Video Contest Tutorial (1st place of 32 groups)
 https://youtu.be/eB-Z7UZt-qw
 
 ## Javadoc
