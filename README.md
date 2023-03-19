@@ -3,6 +3,8 @@
 ## Screenshots
 ![screen1](resources/Screenshots/screenshot1.png)
 
+![menu1](resources/Screenshots/menu_gif.gif)
+
 ![screen2](resources/Screenshots/screenshot2.png)
 
 ## Gameplay Video
